@@ -1,5 +1,5 @@
 {
-  "name": "@bluecoders/eslint-config-bluecoders",
+  "name": "eslint-config-bluecoders",
   "version": "1.0.0",
   "description": "This is the eslint config used by Bluecoders",
   "main": "index.js",
