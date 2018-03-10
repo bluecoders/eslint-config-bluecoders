@@ -1,0 +1,24 @@
+{
+  "name": "@bluecoders/eslint-config-bluecoders",
+  "version": "1.0.0",
+  "description": "This is the eslint config used by Bluecoders",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluecoders/eslint-config-bluecoders.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "bluecoders"
+  ],
+  "author": "Bluecoders",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluecoders/eslint-config-bluecoders/issues"
+  },
+  "homepage": "https://github.com/bluecoders/eslint-config-bluecoders#readme",
+  "dependencies": {
+    "eslint": "^4.18.2"
+  }
+}
