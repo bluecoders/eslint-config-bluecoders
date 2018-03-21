@@ -53,6 +53,7 @@
     "no-undefined": "off",
     "no-underscore-dangle": "off",
     "no-unused-expressions": 0,
+    "no-use-before-define": ["error", { "variables" : false }],
     "no-useless-escape": "off",
     "no-warning-comments": "off",
     "object-curly-newline": ["error", { "consistent": true }],
