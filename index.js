@@ -53,6 +53,7 @@ module.exports = {
         'no-undefined': 'off',
         'no-underscore-dangle': 'off',
         'no-unused-expressions': 0,
+        'no-unused-vars': ['error', { ignoreRestSiblings: true }],
         'no-use-before-define': ['error', { variables: false }],
         'no-useless-escape': 'off',
         'no-warning-comments': 'off',
