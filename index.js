@@ -49,6 +49,7 @@ module.exports = {
         'no-return-await': 'off',
         'no-shadow': 'off',
         'no-sync': 'off',
+        'no-tabs': 'off',
         'no-ternary': 'off',
         'no-undefined': 'off',
         'no-underscore-dangle': 'off',
