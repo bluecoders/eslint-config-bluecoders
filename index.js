@@ -32,7 +32,7 @@ module.exports = {
         'multiline-ternary': 'off',
         'new-cap': 'off',
         'newline-per-chained-call': 'off',
-        'no-confusing-arrow': ['error', { allowParens: true }],
+        'no-confusing-arrow': 'off',
         'no-await-in-loop': 'off',
         'no-console': 'off',
         'no-empty-function': 'off',
