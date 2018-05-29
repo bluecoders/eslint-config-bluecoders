@@ -33,6 +33,7 @@
     "new-cap": "off",
     "newline-per-chained-call": "off",
     "no-await-in-loop": "off",
+    "no-confusing-arrow": ["error", { "allowParens": false }],
     "no-console": "off",
     "no-empty-function": "off",
     "no-extra-parens": ["error", "all", {
