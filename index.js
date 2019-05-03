@@ -25,6 +25,7 @@ module.exports = {
         'lines-around-comment': 'off',
         'line-comment-position': 'off',
         'max-classes-per-file': 'off',
+        'max-depth': 'off',
         'max-len': 'off',
         'max-lines': 'off',
         'max-lines-per-function': 'off',
