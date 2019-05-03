@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-bluecoders",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "This is the eslint config used by Bluecoders",
   "main": "index.js",
   "repository": {
@@ -19,9 +19,6 @@
   },
   "homepage": "https://github.com/bluecoders/eslint-config-bluecoders#readme",
   "dependencies": {
-    "eslint": "^4.18.2"
-  },
-  "peerDependencies": {
-    "eslint": ">= 3"
+    "eslint": "^5.16.0"
   }
 }
