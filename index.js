@@ -1,7 +1,6 @@
+// eslint-disable-next-line no-undef
 module.exports = {
-    extends: [
-        'eslint:all',
-    ],
+    extends: 'eslint:all',
     rules: {
         'array-bracket-newline': 'off',
         'array-element-newline': 'off',
@@ -61,6 +60,7 @@ module.exports = {
         'no-underscore-dangle': 'off',
         'no-unused-vars': ['error', { ignoreRestSiblings: true }],
         'no-use-before-define': ['error', { variables: false }],
+        'no-useless-escape': 'off',
         'no-warning-comments': 'off',
         'object-curly-newline': ['error', { consistent: true }],
         'object-curly-spacing': ['error', 'always'],
@@ -80,12 +80,8 @@ module.exports = {
     parserOptions: {
         sourceType: 'module',
         ecmaVersion: 2017,
-        ecmaFeatures: {
-            experimentalObjectRestSpread: true,
-        },
+        ecmaFeatures: { experimentalObjectRestSpread: true },
     },
-    env: {
-        node: true,
-        es6: true,
-    },
+    env: { es6: true },
 };
+
