@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-bluecoders",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "This is the eslint config used by Bluecoders",
   "main": "index.js",
   "repository": {

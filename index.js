@@ -51,7 +51,6 @@ module.exports = {
         'no-plusplus': 'off',
         'no-process-env': 'off',
         'no-process-exit': 'off',
-        'no-return-await': 'off',
         'no-shadow': 'off',
         'no-sync': 'off',
         'no-tabs': 'off',
